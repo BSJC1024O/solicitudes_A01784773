@@ -1,4 +1,4 @@
-# Hora extra — Publicar tu imagen en GitHub Container Registry
+# Publicar tu imagen en GitHub Container Registry
 
 En esta actividad vas a empaquetar tu app en una imagen Docker y publicarla en GitHub Container Registry (ghcr.io) para que pueda correr en cualquier servidor.
 
